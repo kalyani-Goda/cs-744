@@ -1,0 +1,9 @@
+# Comments starts with hash. Format: parameter : int (comma seperated if multiple values)
+cpu: 10 #in seconds
+mem: 32768 # in bytes
+threads:10
+fsize:32768
+fno:10
+nusers:3
+chroot:~/autograder
+uids:1001,1002,1000
